@@ -1,0 +1,18 @@
+h1{
+    font-size: 44px;
+}
+nav{
+    font-size: 22px;
+}
+
+table,th,td,caption{
+    border-collapse:collapse;
+    border: 1px solid;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 12px;
+    font-size: 22px;
+    text-align: center;
+}
+*{
+    font-size: 18px;
+}
